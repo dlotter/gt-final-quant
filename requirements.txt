@@ -37,7 +37,7 @@ Keras==2.4.3
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
 learningml==0.3
-lxml==4.5.0
+lxml==4.9.1
 Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib==3.2.1
